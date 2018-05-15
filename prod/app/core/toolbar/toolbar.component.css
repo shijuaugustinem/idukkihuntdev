@@ -1,0 +1,35 @@
+.header {
+    padding: 0px 0;
+    background-color: #FDFDFD;
+}
+.logo {
+    float: left;
+}
+.header-right{
+	float:right;
+}
+.logo a {
+	font-family: 'Ubuntu Condensed', sans-serif;
+	font-size: 50px;
+    color: #01a185;
+	text-decoration:none;
+}
+.logo a img{
+   width:90px;
+}
+.logo a span {
+	color:#f3c500;
+}
+a.account {
+    float: left;
+    margin-top: 20px;
+    font-size: 15px;
+    color: #fff;
+    background-color: #01a185;
+    padding: 12px 50px;
+    text-decoration: none;
+	margin-bottom: 20px;
+}
+a.account:hover {
+	background-color: #f3c500;
+}
