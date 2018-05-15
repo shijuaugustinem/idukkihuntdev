@@ -149,6 +149,7 @@
         "/assets/images/k7.jpg",
         "/assets/images/k8.jpg",
         "/assets/images/k9.jpg",
+        "/assets/images/loading.gif",
         "/assets/images/lock.png",
         "/assets/images/m1.jpg",
         "/assets/images/m10.jpg",
@@ -233,10 +234,10 @@
     }
   ],
   "hashTable": {
-    "/index.html": "737f70e51bd031bdd70778076a35cb3601a16eef",
+    "/index.html": "14b0acc6228e07a2ae836707a281f70a33433e7a",
     "/ngsw-worker.js": "0096c76ba8465f78b6d127a5068450182c0397fc",
     "/css/main.css": "34daba6ec298533c98f3e06519acdc7f158080f3",
-    "/js/app.js": "5afb383361d2ad89ed7fb30eef78adbb31ceb6b8",
+    "/js/app.js": "d3b4ab75f93611dc7331ef0f11fb8ceaa3de42fd",
     "/js/shims.js": "514b1cc95b9d79df7a1ca26ef8488404c76f0bfb",
     "/assets/data.json": "33a0db49c233fe19b79d4830e9e3415fb263e7f0",
     "/assets/favicon/idlogo-DEV.png": "7567709a01d594ba57991739a2c5ed2cf2e172e2",
@@ -377,6 +378,7 @@
     "/assets/images/k7.jpg": "12ff8244057357b9a4f032377d9e1b4e52f0295b",
     "/assets/images/k8.jpg": "17f527dc66d994ed618219c13cf51b51cef249a0",
     "/assets/images/k9.jpg": "31285f50ca7aa75efc25731ae909f0583cf16563",
+    "/assets/images/loading.gif": "16a19198d17c02e2d4be52c767bcc82ac36ded84",
     "/assets/images/lock.png": "3bb4fb16e0ab4e5c9e0733da6694e62a38f4b718",
     "/assets/images/m1.jpg": "b80633a8d73edb5587232ea3eec6b9afbb68cdeb",
     "/assets/images/m10.jpg": "6ac859a34376a710622f448763f2a4ecd5c5ed70",
