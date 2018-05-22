@@ -346,7 +346,9 @@ ul {
     width: 100%;
     height: 500px;
 }
-
+.flexslider.active {
+   display:none;
+}
 .flexslider .slides img {
     width: 100%;
     height: 500px;
